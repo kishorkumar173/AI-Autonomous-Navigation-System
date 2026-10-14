@@ -1,0 +1,10 @@
+{
+    "total_time_seconds": 10.0,
+    "total_distance_px": 688.7,
+    "average_speed": 1.15,
+    "max_speed": 5.5,
+    "minimum_obstacle_clearance": 14.36,
+    "near_collision_events": 6,
+    "final_distance_to_goal": 485.92,
+    "success": false
+}
